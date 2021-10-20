@@ -2,7 +2,12 @@
 
 Projeto desenvolvido no evento NLW HEAT da Rocketseat 💜
 
-## tenologias 🚀
- - prisma
- - sqlite
- - github-api
+## tecnologias 🚀
+
+- prisma
+- sqlite
+- github-api
+
+<p align="center">
+  <img alt="thumb" src="https://github.com/adreider/nlw-heat-nodejs/blob/main/.github/thumpng">
+</p>

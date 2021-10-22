@@ -5,7 +5,8 @@
   "license": "MIT",
   "scripts": {
     "dev": "ts-node-dev --exit-child src/server.ts",
-    "start": "ts-node-dev --exit-child src/server.ts"
+    "start": "ts-node-dev --exit-child src/server.ts",
+    "build": "node --exit-child dist/server.ts"
   },
   "dependencies": {
     "@prisma/client": "^3.3.0",

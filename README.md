@@ -1,4 +1,4 @@
-# NLW heat
+# NLW Heat
 
 Projeto desenvolvido no evento NLW HEAT da Rocketseat 💜
 

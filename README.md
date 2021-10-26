@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # NLW heat
 
 Projeto desenvolvido no evento NLW HEAT da Rocketseat 💜
